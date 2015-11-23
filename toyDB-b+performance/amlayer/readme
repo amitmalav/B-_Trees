@@ -1,0 +1,2 @@
+type make all to make both testcases
+type make clean to clean
